@@ -14,9 +14,6 @@ Follow the instructions below to clone, compile, and run the project on your loc
 Make sure you have the following installed on your system:
 - **Java Development Kit (JDK)** - version 8 or above
 
-### 📥 Clone the Repository
-```
-git clone https://github.com/Saurav1928/Car-Rental-Management.git
 ```
 - Navigate to the folder where you have clone the repo.
 🔧 Compile the Program
